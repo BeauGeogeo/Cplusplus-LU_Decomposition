@@ -1,0 +1,12 @@
+﻿  Matrice.cpp
+D:\PushToGit\C++LU_Decomposition\Matrices\Matrice.cpp(45,2): warning C4804: '<=' : utilisation risquée du type 'bool' dans l'opération
+D:\PushToGit\C++LU_Decomposition\Matrices\Matrice.cpp(45,2): warning C4804: '<' : utilisation risquée du type 'bool' dans l'opération
+D:\PushToGit\C++LU_Decomposition\Matrices\Matrice.cpp(46,2): warning C4804: '<=' : utilisation risquée du type 'bool' dans l'opération
+D:\PushToGit\C++LU_Decomposition\Matrices\Matrice.cpp(46,2): warning C4804: '<' : utilisation risquée du type 'bool' dans l'opération
+D:\PushToGit\C++LU_Decomposition\Matrices\Matrice.cpp(210,2): warning C4804: '<' : utilisation risquée du type 'bool' dans l'opération
+D:\PushToGit\C++LU_Decomposition\Matrices\Matrice.cpp(249,2): warning C4804: '<' : utilisation risquée du type 'bool' dans l'opération
+D:\PushToGit\C++LU_Decomposition\Matrices\Matrice.cpp(250,2): warning C4804: '<' : utilisation risquée du type 'bool' dans l'opération
+D:\PushToGit\C++LU_Decomposition\Matrices\Matrice.cpp(351,14): warning C4244: 'return' : conversion de 'double' en 'float', perte possible de données
+D:\PushToGit\C++LU_Decomposition\Matrices\Matrice.cpp(383,23): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+D:\PushToGit\C++LU_Decomposition\Matrices\Matrice.cpp(396,24): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+  Matrices.vcxproj -> D:\PushToGit\C++LU_Decomposition\Matrices\Debug\Matrices.exe

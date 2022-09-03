@@ -1,0 +1,2 @@
+D:\Divers\Dossiers et Thèmes\Maths Informatique\Informatique\C++\CoursIvan\ExosIvan\Matrices\Debug\Matrices.exe
+D:\PushToGit\C++LU_Decomposition\Matrices\Debug\Matrices.exe
